@@ -1,3 +1,4 @@
+[[LECTURE 2 (TUTORIAL)]]
 # CLASSICAL LOGIC
 
 ### The law of non-contradiction

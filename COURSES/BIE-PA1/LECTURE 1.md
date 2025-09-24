@@ -1,6 +1,6 @@
 # INTROCUTION: ALGORITHMS & LANGUAGES
 
-[[LECTURE 2]]
+[[COURSES/BIE-PA1/LECTURE 2]]
 
 Algorithm by definition is a sequence of operation to solve a certain class of problems. Algorithm consists of a list of unambiguous commands. Algorithm guarantee that the desired final results are available for any admissible combination of input data.
 Moreover, the results are available after a finite number of steps.
