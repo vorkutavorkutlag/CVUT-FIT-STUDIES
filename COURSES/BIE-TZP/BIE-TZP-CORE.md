@@ -1,5 +1,5 @@
 ===================
-[[CVUT FIT/BIE-TZP/LECTURE 1|LECTURE 1]]
+[[COURSES/BIE-TZP/LECTURE 1|LECTURE 1]]
 # Technological Fundamentals of Computers
 
 Prof. Katerina Hyniova; hyniova@fit.cvut.cz

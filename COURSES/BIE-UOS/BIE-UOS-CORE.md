@@ -1,7 +1,7 @@
 # UNIX-LIKE OPERATING SYSTEMS
 
 [[TECHNICALITY & COMMANDS]]
-[[CVUT FIT/BIE-UOS/LECTURE 1|LECTURE 1]]
+[[COURSES/BIE-UOS/LECTURE 1|LECTURE 1]]
 
 You can find everything on the website https://courses.fit.cvut.cz/BIE-UOS
 

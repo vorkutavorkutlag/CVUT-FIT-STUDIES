@@ -1,6 +1,7 @@
 
 ==============
-[[CVUT FIT/BIE-PA1/LECTURE 1]]
+[[COURSES/BIE-PA1/LECTURE 1|LECTURE 1]]
+
 
 gcc/g++/clang compilers
 - cli tools, no GUI

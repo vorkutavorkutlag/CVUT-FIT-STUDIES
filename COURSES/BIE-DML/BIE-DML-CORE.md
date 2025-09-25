@@ -1,6 +1,6 @@
 
 https://courses.fit.cvut.cz/BIE-DML/
-[[CVUT FIT/BIE-DML/LECTURE 1|LECTURE 1]]
+[[COURSES/BIE-DML/LECTURE 1|LECTURE 1]]
 ## Structure of Mathematical Texts
 
 Definition is an introduction of a new mathematical object by precisely and unambiguously describing its properties.
