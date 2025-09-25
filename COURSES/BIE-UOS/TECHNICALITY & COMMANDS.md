@@ -8,9 +8,6 @@ A = abc
 A=abc
 ```
 
-
-Cheat Sheet
-
 `man`: manual guide, shows how a command functions 
 argument: valid unix command
 example: `man ls`
