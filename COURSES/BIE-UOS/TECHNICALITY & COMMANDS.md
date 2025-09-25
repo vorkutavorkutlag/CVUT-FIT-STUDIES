@@ -52,3 +52,35 @@ AAA: ....
 [PS1 is the Prompt String One environment variable, being the string in-before the command prompt in the shell. Using `export`, it is editable.]
 
 `gnome-terminal &` will create another ssh terminal as a child of the original one, though it will have its own local environment, even if it inherits the local variables made up to that point.
+
+`pwd`: Print Working Directory - prints the directory you are in
+- There is also a variable called $PWD, which, if echoed, gives the same output as `pwd`.
+
+
+`mkdir`: make directory
+argument: path to the would-be directory you want to make
+example: `mkdir uos1`
+
+`df`: shows the filesystem table. size, used, avail, use%, mounting location
+flag: `-h`: converts sizes to M, GB, etc.
+
+`uname`: prints information about OS 
+flag: `-a` prints further information (ie, distribution, version, etc.)
+
+`lscpu`: prints information about the CPU
+
+###### `|`: Pipe
+Feeds the output of the previous command slice as an argument to the command slice that follows it.
+
+`lscpu | less`: will display the contents of lscpu in a terminal, instead of printing it.
+
+
+using asteriks (\*\*) you may find similar files/directories.
+```
+~$ echo /etc/*release*
+/etc/os-release
+```
+`os-release` contains the string `release`, and so, using asteriks, it is possible to find.
+
+`cat`: returns the contents of the file in text
+

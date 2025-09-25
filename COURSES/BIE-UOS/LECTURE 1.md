@@ -1,3 +1,4 @@
+[[COURSES/BIE-UOS/LECTURE 2|LECTURE 2]]
 # INTRODUCTION IN UNIX OPERATING SYSTEM
 
 Unix is now a trademark, as there isn't a single \`Unix\` operating system. Unix-like systems are based off of the core attributes and philosophy of the operating systems.
