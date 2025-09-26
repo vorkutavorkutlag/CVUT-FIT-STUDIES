@@ -21,7 +21,7 @@ Associativity: c_1 \* (c_2 \* v) = (c_1 * c_2) \* v
 Distributivity:  c*(v_1+v_2) = cv_1 + cv_2
 Distributivity: (c_1+c_2) \* v = c_1 \* v + c_2\*v
 Multiplication by 1: 1 \* v = v
-Existence of zero vector: <0> + v = v + <0> = v
+Existence of zero vector: 0^ + v = v + 0^ = v
 
 
 
