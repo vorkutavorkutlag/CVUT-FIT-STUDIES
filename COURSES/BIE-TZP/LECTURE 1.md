@@ -1,3 +1,4 @@
+[[COURSES/BIE-TZP/LECTURE 2|LECTURE 2]]
 ## Basic quantities and elements in electrical circuits
 ===================================================
 

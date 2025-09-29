@@ -77,7 +77,7 @@ using asteriks (\*\*) you may find similar files/directories.
 ~$ echo /etc/*release*
 /etc/os-release
 ```
-`os-release` contains the string `release`, and so, using asteriks, it is possible to find.
+the name `os-release` contains the string `release`, and so, using asteriks, it is possible to find.
 
 `cat`: returns the contents of the file in text
 
