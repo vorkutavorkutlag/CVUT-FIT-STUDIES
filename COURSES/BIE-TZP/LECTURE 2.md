@@ -59,4 +59,25 @@ When in series, the inverse value of the total equivalent capacity C is given by
 $$\frac{1}{C} = \sum_{i=1}^{n}\frac{1}{C_i}$$
 In parallel, total equivalent capacity C [F] is given by the algebraic sum of individual capacities.
 $$C = \sum_{i=1}^{n}C_i$$
+### Inductors
+In seires, total inductance of L [H] is given by an algebraic sum of individual inductances.
+$$L = \sum_{i=1}^{n}L_i$$
+In parallel, the inverse value of the total inductance L [H] is given by the sum of inverse values of individual inductances.
+$$L = \sum_{i=1}^{n}\frac{1}{L_i}$$
+![[Pasted image 20250929130353.png]]
 
+
+### Fundamental Laws of Electrical Engineering
+Ohm's Law states that the el. current iR(t) through a conductor between two points A and B is directly proportional to the potential difference (el. voltage) uR(t) across these two points, and inversely proportional to the resistance R between them
+$$i_R(t)=\frac{u_R(t)}{R}$$
+Kirchoff's Current Law (1st law, `KCL`) states that the algebraic sum of all currents flowing into a junction (node) minus the sum of all currents flowing out of the node is equal to zero.
+$$\sum{I_{IN}} - \sum{I_{OUT}} = 0$$
+$$\sum{I_{IN}} = \sum{I_{OUT}}$$
+
+Kirchoff's Voltage Law (2nd law, `KVL`) states that the algebraic sum of all voltages around any CLOSED LOOP in a circuit must be equal to zero. This is because a circuit loop is a closed conducting path so no energy is lost. Sign of voltage in the sum is given with respect to the direction of the chosen run around the closed loop.
+$$\sum_{k=1}^{n}U_k = 0[V]$$
+Note here that the term “algebraic sum” means to take into account the polarities and signs of the voltage sources and voltage drops around the loop.
+
+- Moving around a closed loop, or circuit, you will end up back to where you started in the circuit and therefore back to the same initial potential with no loss of voltage around the loop. Hence voltage drops around the loop must be equal to any voltage sources met along the way.
+- So when applying Kirchhoff’s voltage law to a specific circuit element, it is important that we pay special attention to the algebraic signs, (+ and -) of the voltage drops across elements and the voltages of sources otherwise our calculations may be wrong
+- The orientation of voltage drop across a passive elements R, L, and C in the loop is the same as the orientation of the current flowing through these passive elements!!!
