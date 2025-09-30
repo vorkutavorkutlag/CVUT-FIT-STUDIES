@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-UOS/LECTURE 3|LECTURE 3]]
 Opening Debian on the school computer, and trying out some basic commands, such as `hostname`, `whoami`, and `echo`. You did not necessarily need Linux on your laptop.
 
 

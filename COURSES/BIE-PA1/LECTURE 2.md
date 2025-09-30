@@ -1,4 +1,4 @@
-[[LECTURE 3]]
+[[COURSES/BIE-PA1/LECTURE 3]]
 ## Programming languages and styles
 
 
