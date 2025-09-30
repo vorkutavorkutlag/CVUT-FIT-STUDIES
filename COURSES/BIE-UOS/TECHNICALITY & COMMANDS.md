@@ -17,7 +17,7 @@ argument: valid path
 example `cd /etc`
 
 `ls`: returns contents of the working directory
-flags: `-l` (long) more information. Directory/File, permissions, date created/modified, size, etc.
+flags: `-l` (long) more information. Directory/File, permissions, date created/modified, size, etc. `-a` (all) shows hidden files (files that start with `.`)
 argument: none
 example: `ls`
 
@@ -81,3 +81,15 @@ the name `os-release` contains the string `release`, and so, using asteriks, it 
 
 `cat`: returns the contents of the file in text
 
+`touch`: creates an empty file in cwd. argument is the file name.
+
+`finger`: calculates the number of users working on the system
+
+`tail`: outputs the last part of a file. 
+`tail -n+NUM` skips the first first N lines. (for some reason, -n+0 and -n+1 is interpreted the same)
+
+`wc`: prints newline, word, and byte counts for each file.
+flag `-l` prints the newline counts only
+
+`cp`: copies file and/or directory.
+arguments: item to be copied, directory to be copied into.
