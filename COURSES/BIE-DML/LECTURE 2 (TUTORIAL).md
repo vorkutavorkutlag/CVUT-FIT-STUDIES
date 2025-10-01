@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-DML/LECTURE 3|LECTURE 3]]
 In the beginning, the professor recounts the elementary formulas and propositions, and the connectives (Conjunction, Disjunction, Implication, Equivalence).
 What followed was a series of simple examples, such as:
 `W: Wednesday, M: Monday, C: Class, A: Has Cat, O: Has Dog, B: Barks, D: Dog`
