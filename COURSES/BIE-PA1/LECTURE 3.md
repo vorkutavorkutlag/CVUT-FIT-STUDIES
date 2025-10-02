@@ -1,4 +1,4 @@
-[[LECTURE 4]]
+[[COURSES/BIE-PA1/LECTURE 4]]
 #### Numeral Systems
 ==============
 In our day to day lives we used the decimal system, which consists of 10 numbers:

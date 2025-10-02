@@ -80,6 +80,8 @@ using asteriks (\*\*) you may find similar files/directories.
 the name `os-release` contains the string `release`, and so, using asteriks, it is possible to find.
 
 `cat`: returns the contents of the file in text
+can also be used to concatenate and input into file
+`cat > out.txt`
 
 `touch`: creates an empty file in cwd. argument is the file name.
 
@@ -93,3 +95,15 @@ flag `-l` prints the newline counts only
 
 `cp`: copies file and/or directory.
 arguments: item to be copied, directory to be copied into.
+
+ps - reports a spanshot of the current process
+
+
+-pressing tabulation twice shows you all possible entries/completions.
+
+`history` list of commands executed in the past.
+
+`chmod u+x [script]` gives execution permissions to a script.
+will need to use when accessing fray1 from non-school machine.
+
+`$0` name of running script 
