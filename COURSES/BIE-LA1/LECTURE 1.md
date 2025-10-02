@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 2|LECTURE 2]]
 ### Introduction
 
 The student should be familiarized with the following topics.
