@@ -1,3 +1,4 @@
+[[LECTURE 3 (TUTORIAL)]]
 ## Linear Combinations
 =========================
 One of our tasks in linear algebra is to start with given vectors v_1,...,v_k and scalars c_1,...,c_k then use vector addition and scalar multiplication to construct a new vector. In the following we give a name to this process

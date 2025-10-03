@@ -1,3 +1,4 @@
+[[LECTURE 4 (TUTORIAL)]]
 ### Propositional Logic (Continued)
 
 It is important to note that in human, informal language, multiple different phrasings can mean the same logical expression.

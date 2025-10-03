@@ -60,7 +60,7 @@ $$\frac{1}{C} = \sum_{i=1}^{n}\frac{1}{C_i}$$
 In parallel, total equivalent capacity C [F] is given by the algebraic sum of individual capacities.
 $$C = \sum_{i=1}^{n}C_i$$
 ### Inductors
-In seires, total inductance of L [H] is given by an algebraic sum of individual inductances.
+In series, total inductance of L [H] is given by an algebraic sum of individual inductances.
 $$L = \sum_{i=1}^{n}L_i$$
 In parallel, the inverse value of the total inductance L [H] is given by the sum of inverse values of individual inductances.
 $$L = \sum_{i=1}^{n}\frac{1}{L_i}$$
