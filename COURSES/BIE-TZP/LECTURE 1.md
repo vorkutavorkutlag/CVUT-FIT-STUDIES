@@ -105,7 +105,7 @@ You cannot connect electrical currents in series, as it will result in the sourc
 - Resistor R, resistance measured in Ohms Ω - produces a voltage drop uR(t) proportional to the current iR(t) flowing through the element (resistor). It relates voltage uR(t) and current iR(t) ] according to the relation (Ohm ´s law):
 $$u_R(t) = R * i_R(t)$$
 - Capacitor C, capacity measured in Farads F - produces a current iC(t) proportional to the rate of change of voltage uC(t) across the element (capacitor). It relates current iC(t) and voltage uR(t) according to the relation:
-$$i_C(t) = C * du_C(t)/dt$$
+$$i_C(t) = C * \frac{du_C(t)}{dt}$$
 - Inductor L, inductance measured in Henrys H - produces a voltage uL(t) proportional to the rate of change of current iL(t) through the element (inductor ). It relates voltage uL(t) and current iL(t) according to the relation:
 $$u_L(t) = L * di_L(t)/dt$$
 ![[Pasted image 20250922130559.png]]
@@ -128,9 +128,8 @@ devices, which are called nonohmic or nonlinear.
 Capacity is ability of a body to hold an electrical charge. Capacity is so a measure of the amount of electrical energy stored for a given electric potential and is measured in Farads (F).
 A common form of energy storage element is a capacitor.
 A capacitor (originally known as a condenser) is a passive two-terminal electrical element used to store electrical energy in the form of electric field created by a voltage between two conducting surfaces (e.g., metal foil) called “electrodes” and separated by an insulating material called a “dialectric”
-
 $$i_c(t) = C * du_C(T)/dt$$
-It is necessary to know initial condition uC(t0)=uC(0) at initial time t0=0 s to solve the differential eqation. Usually, the initial condition uC(t0)=uC(0)=0V
+It is necessary to know initial condition uC(t0)=uC(0) at initial time t0=0 s to solve the differential equation. Usually, the initial condition uC(t0)=uC(0)=0V
 
 ### Inductor L
 Inductors store energy in the magnetic field created by current flowing through a wire. The capacity of the majority of inductors used in electronic circuits is several orders of magnitude smaller than one Henry. The most common subunits of inductance in use today re subunits nano-Henrys (nH), micro-Henrys (μH), milli-Henrys (mH) etc. Inductors are made of wire wound in a coil, sometimes around a core made of magnetic material that concentrates the magnetic energy.
