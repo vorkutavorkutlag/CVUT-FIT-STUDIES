@@ -1,4 +1,4 @@
-
+[[LECTURE 6]]
 #### Compiling a C program
 
 The main function may either receive no parameters at all or some parameters such as keyword. You can write it as `int main() {}` It has to be an integer for the main function. It will return zero if the program succeeded. Other exit codes otherwise.
