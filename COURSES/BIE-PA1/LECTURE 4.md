@@ -199,3 +199,9 @@ Normalizing the number in a way that the mantissa is always one point something 
 
 Mantissa gives the precision of a floating point type.
 $$decimals = \frac{mantissa\_bits}{log_210}$$
+Exponent gives the range of a floating point type
+$$max =2^{2^{exponent_bits-1}}$$
+The actual maximum is usually only a half of this value.
+All-one and all-zero exponents are usually reserved for special
+purposes.
+$$max =2^{2^{exponent_bits-1}-1}$$
