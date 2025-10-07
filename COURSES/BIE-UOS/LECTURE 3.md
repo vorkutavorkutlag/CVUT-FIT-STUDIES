@@ -119,4 +119,7 @@ For the next expression it is important to understand the exit/return codes of e
 `cmd1 || cmd2`: cmd2 is executed if and only if cmd1 returns a non-zero exit status.
 
 ###### Special Characters
-Brace expansion... [https://courses.fit.cvut.cz/BIE-UOS/lectures/bie-uos-p02-cli-01.pdf] Page 11
+![[Pasted image 20251007093113.png]]
+![[Pasted image 20251007093131.png]]
+
+
