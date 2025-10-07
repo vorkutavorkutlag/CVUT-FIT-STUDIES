@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-DML/LECTURE 5|LECTURE 5]]
 Test on October 20th at the beginning of the tutorial.
 Quizzes on MARAST are open now.
 
