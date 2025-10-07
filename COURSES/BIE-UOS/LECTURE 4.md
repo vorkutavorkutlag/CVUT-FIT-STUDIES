@@ -1,3 +1,5 @@
+[[COURSES/BIE-UOS/LECTURE 5|LECTURE 5]]
+
 The only important thing that happened was doing exercise with previous lecture's information, also using scp command in the ssh protocol to copy over a bash script we wrote in our local computer over to the fray server. 
 ```bash
 #!/usr/bin/bash
