@@ -13,7 +13,7 @@ $$A \vDash B$$
 B is true whenever A is true, A is false whenever B is false.
 if B is true, A is not necessarily true. if A is false, then B is not necessarily false.
 
-$$A \lor B \vDash A $$
+$$A \land B \vDash A \vDash A \lor B$$
 If, given a full DNF, 
 $E \equiv (A \land B \land \neg C)$, and 
 $F \equiv (\neg A \land B \land \neg C) \lor (\neg A \land \neg B \land \neg C) \lor (A \land B \land \neg C)$
