@@ -1,3 +1,4 @@
+[[LECTURE 6 (TUTORIAL)]]
 # Introduction to Predicate Logic
 ========================================
 
