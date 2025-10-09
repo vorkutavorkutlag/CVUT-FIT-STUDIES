@@ -1,3 +1,4 @@
+[[COURSES/BIE-UOS/LECTURE 6 (TUTORIAL)|LECTURE 6 (TUTORIAL)]]
 This will be a continuation of last week's command line parsing presentation.
 
 Shell splits the content of command-line into words. Default word separators are space, tab, new-line. Default word separators can be change by shell variables IFS.

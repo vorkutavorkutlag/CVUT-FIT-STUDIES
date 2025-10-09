@@ -1,4 +1,4 @@
-[[LECTURE 6 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 6 (TUTORIAL)]]
 # Introduction to Predicate Logic
 ========================================
 
