@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-LA1/LECTURE 4|LECTURE 4]]
 A field is a set in which you may have addition and multiplication, elements that behave like 1 and elements that behave like 0. Let F be a set with two operations called addition an multiplication. We write the addition of a ∈ F and b ∈ F as a+b and the multiplication of and b as ab.
 If the following conditions hold for all a, b, c ∈ F then F is called a field:
 Commutativity
