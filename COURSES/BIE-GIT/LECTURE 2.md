@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-GIT/LECTURE 3|LECTURE 3]]
 ## Git Installation & Basic Commands
 =======================================
 

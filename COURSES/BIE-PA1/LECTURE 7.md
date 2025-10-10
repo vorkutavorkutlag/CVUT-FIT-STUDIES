@@ -1,3 +1,5 @@
+[[LECTURE 8 (LAB)]]
+
 The lecture began by finishing the previous proseminar's function, which was a basic calculator and handling invalid input. The solution was to clear the standard input after each invalid input.
 ```c
 while (scanf("%c", &x) == 1 && x!= '\n') {}
@@ -30,7 +32,7 @@ It is important to play with floats properly so you may be able to do proportion
 For example, if x is computed by some x = a - b, and then you see if x == 0, you may not use the epsilon for x.
 |x - 0| <= epsilon \* |x|
 This is just a really complex way of writing x == 0. Instead, you should do:
-|a - b| <= epsilon \* |a + b|
+|a - b| <= epsilon \* (|a| + |b|)
 
 The second part of the lecture included writing a maximum, minimum, and average finding program. The main highlight was the addition of tests - where the programmer would write text files of input and expected output, and then write a bash script to run the executable and compare them automatically. i.e.:
 ```sh
