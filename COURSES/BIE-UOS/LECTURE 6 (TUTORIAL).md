@@ -1,3 +1,4 @@
+[[COURSES/BIE-UOS/LECTURE 7|LECTURE 7]]
 The tutorial started with a short practice about meta characters and parsing, different methods to write:
 ```sh
 date +"Today is %A, &d.&m.&Y \(week &V\).%nThe time is %T [%Z]."

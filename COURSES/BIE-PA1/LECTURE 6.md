@@ -1,4 +1,4 @@
-[[LECTURE 7]]
+[[COURSES/BIE-PA1/LECTURE 7]]
 #### Other data types include
 ##### Structure
 A user defined data type which packs multiple values into a single object. E.g. struct {int a; double b;} s is a structure containing an int and a double. Its members are accessed by operation . (dot), e.g., s.a.
