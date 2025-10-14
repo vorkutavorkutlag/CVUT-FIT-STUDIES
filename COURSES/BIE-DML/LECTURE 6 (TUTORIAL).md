@@ -1,3 +1,4 @@
+[[COURSES/BIE-DML/LECTURE 7|LECTURE 7]]
 First exercised was using the golden law and de morgan laws to convert $A \implies (B \lor C)$ into a formula using only $\{\neg, \land\}$ as it is a complete set. 
 
 Today we will see that we can be even more precise than that.

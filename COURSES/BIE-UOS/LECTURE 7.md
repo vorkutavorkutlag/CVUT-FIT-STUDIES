@@ -1,4 +1,4 @@
-[[LECTURE 7 - PART 2]]
+[[COURSES/BIE-UOS/LECTURE 7 - PART 2]]
 Next week there will be a small test in the beginning of the tutorial (week 5).
 Small 5 minute test with one question within the LearnShelll system (sent link on email).
 
