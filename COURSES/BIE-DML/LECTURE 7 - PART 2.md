@@ -1,3 +1,4 @@
+[[COURSES/BIE-DML/LECTURE 8 (TUTORIAL)|LECTURE 8 (TUTORIAL)]]
 # Mathematical Proofs, Mathematical Induction
 
 We will be moving on from logic as it was the foundation to express and understand mathematics. It will still be used in this course and others, however these proofs are considered a different topic.
