@@ -1,4 +1,4 @@
-
+[[LECTURE 5 (TUTORIAL)]]
 Followup from the last lectures, a common question in the exams:
 Given a field, determine its span.
 Then, given a vector, determine if it's on the span and write it in linear dependence on the field.

@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-UOS/LECTURE 8 (TUTORIAL)|LECTURE 8 (TUTORIAL)]]
 ## UNIX FILE-SYSTEM
 As opposed to other operating system archetypes such as that of Windows, the Unix-like operating systems share a single root, that being `/`
 ![[Pasted image 20251014080512.png]]
