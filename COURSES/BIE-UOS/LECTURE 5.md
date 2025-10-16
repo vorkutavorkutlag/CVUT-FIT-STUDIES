@@ -67,7 +67,12 @@ The former signifies a range from zero to nine, whereas the latter is a set of t
 Matching one character not in the set or in the range, except the leading . (period)
 of a hidden file.
 `ls -l [^A-Z]*`
+synonymously, can be written as:
+`ls -l [!A-Z]*`
 
+###### **Curly brackets { }**
+{s1,s2,s3} is a set of strings. it skips any string that is not in the set. for example:
+`{abc,xyz}.{c,txt}` will return all c or text files that are called either abc or xyz.
 As a reminder, echo is a 'stupid' command and just prints the contents it receives as an zargument, whereas 'ls' is a smart command and pulls from environment information and changes its output accordingly; i.e. file permissions, terminal size, etc.
 This does not mean one command is more useful than the other.
 It means that there are different use-cases for the two commands.
