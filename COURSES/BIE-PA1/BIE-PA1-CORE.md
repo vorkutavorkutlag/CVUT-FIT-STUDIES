@@ -14,6 +14,8 @@ Netbeans IDE/Eclipse
 No specific OS required for course.
 Recommended to test programs under different compilers.
 
+valgrind to debug programs
+
 https://courses.fit.cvut.cz : rules credit assignment and exam, lectures, proseminars, seminars
 https://progtest.fit.cvut.cz : homework, contest homework, test.
 https://gitlab.fit.cvut.cz : git versioning system.
