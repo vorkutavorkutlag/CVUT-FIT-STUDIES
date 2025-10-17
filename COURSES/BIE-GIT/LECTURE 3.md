@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-GIT/LECTURE 4|LECTURE 4]]
 
 Detailed repeat of the previous lectures with some practical examples.
 Risks of not committing in time and resetting the head pointer, PA1 repositories, etc.
