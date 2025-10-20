@@ -63,3 +63,6 @@ The big thing to understand about capacitors and inductors in DC circuits is tha
 ![[Pasted image 20251020100542.png]]
 
 ![[Pasted image 20251020100553.png]]
+
+
+In the next exam we will need to describe nodal analysis. 

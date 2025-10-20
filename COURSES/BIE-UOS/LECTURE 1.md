@@ -7,7 +7,7 @@ The source code for the original Unix is open-source, and it was rewritten into 
 GNU project is a series of tools and interface for UNIX-like operating systems.
 The Linux distributions have been born from UNIX.
 
-### UNIX architecture is built at such:
+### UNIX architecture is built as such:
 At the very core is the hardware, which includes physical components such as GPU, CPU, keyboard, mouse, monitor, etc. Additionally, in the same layer there is some Firmware that comes along 'engraved' within the hardware, apparent in concepts such as BIOS/UEFI.
 Above that is the Kernel, the direction communication of the software with the hardware, passing of instructions and computations, writing or reading data, etc. Above that is the UNIX API, meaning there exists input situated right on top of the Kernel, giving very intensive control over the system and its most integral components.
 Above is the Libraries which have been either preinstalled or installed by the API, which contain the basis for other processes that may be running on the machine. On top of the libraries sit the system processes, and beside, the users and the users' individual processes.
