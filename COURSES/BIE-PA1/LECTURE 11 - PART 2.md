@@ -1,3 +1,4 @@
+[[LECTURE 12]]
 # FUNCTIONS
 
 A function is defined from its name, its return type, and its parameters.
@@ -40,4 +41,4 @@ To return more than one value in a function we use output parameters. C does not
 
 Don't use global variables, see errno!
 
-Alternatively, we may pack multiple values into one box - structures.
+Alternatively, we may pack multiple values into one box - structures and its members.
