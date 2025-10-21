@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-UOS/LECTURE 9|LECTURE 9]]
 Command line parsing exercises.  IO/expressions
 For example, 
 to find all the files ending with q: `ls *q`
