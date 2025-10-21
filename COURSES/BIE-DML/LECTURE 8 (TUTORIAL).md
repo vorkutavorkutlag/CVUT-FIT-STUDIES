@@ -1,3 +1,4 @@
+[[COURSES/BIE-DML/LECTURE 9|LECTURE 9]]
 ### Predicate Logic
 
 Still using the same formulas and connectives we've used in propositional logic, but we are expending with other terms. For example, with the use of constants (numbers, objects), variables (x, y, a, b), quantifiers (for every x, there exists y). We may create terms from the existing terms using functions (input and output). Formulas are obtained by combining terms, quantifiers and functions into predicates.
