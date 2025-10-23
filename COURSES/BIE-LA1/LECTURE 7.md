@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-LA1/LECTURE 8 (Tutorial)|LECTURE 8 (Tutorial)]]
 Linear Algebra practice with Christian Hughes and David Lapunik on Fridays starting 24.10.2025
 18:00-19:30 in JP6:571
 Every week before the test, there will be an available practice test in the Friday practice
