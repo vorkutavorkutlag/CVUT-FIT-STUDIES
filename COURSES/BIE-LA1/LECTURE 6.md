@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-LA1/LECTURE 7|LECTURE 7]]
 #### Linear Combination
 
 Using elementary connectives such as vector addition, which receives $F^n, F^n$ and outputs $F^n$, scalar multiplication which receives $F, F^n$, and outputs $F^n$, and the zero vector $0 \in F^n$,
