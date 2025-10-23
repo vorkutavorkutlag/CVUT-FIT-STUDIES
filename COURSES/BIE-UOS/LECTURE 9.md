@@ -1,3 +1,4 @@
+[[COURSES/BIE-UOS/LECTURE 10 (TUTORIAL)|LECTURE 10 (TUTORIAL)]]
 ## Filters
 Filter is a simple program that gets its data from its standard input (the main input stream) and writes its result to its standard output (the main output stream).
 Filters include `head, tail, wc, cut, tr`, etc.

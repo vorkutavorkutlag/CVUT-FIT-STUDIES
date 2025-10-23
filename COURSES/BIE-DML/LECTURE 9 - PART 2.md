@@ -1,4 +1,4 @@
-[[LECTURE 10 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 10 (TUTORIAL)]]
 # Sets and Mappings
 
 In DML, we will be studying the practical aspect of sets, not pure set theory.
