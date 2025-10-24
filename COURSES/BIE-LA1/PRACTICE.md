@@ -65,3 +65,7 @@ Using Gauss Elimination method with Row Operations, we may finally get the resul
 $\begin{bmatrix} 1 && 0 && 0 && | 0 \\ 0 && 6 && 21 && | 0 \\ 0 && 0 && -13 && | 0 \end{bmatrix}$   
 Each row has a pivot, and it follows a 'staircase' form. That means there is only one unique solution to the question.
 Gauss elimination let's us know if there are more than one solutions (causes the lack of linear independence, i.e. linear dependence).
+
+There is a very, very useful slide to use for everything we went over in this lecture.
+Christianbhughes.com
+https://christianbhughes.com/subspacesAndSpan.pdf
