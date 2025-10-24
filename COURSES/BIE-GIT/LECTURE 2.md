@@ -104,7 +104,10 @@ Additionally, even if you add the changes, you may still see what you have chang
 ```bash
 git diff --cached
 ```
-
+Likewise, this will be useful in collaboration with others:
+```bash
+git diff --cached --word-diff
+```
 
 
 It is possible to create aliases for git, as in, sort of shortcuts for longer commands.

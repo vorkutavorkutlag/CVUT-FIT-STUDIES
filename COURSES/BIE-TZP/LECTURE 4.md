@@ -1,3 +1,4 @@
+[[COURSES/BIE-TZP/LECTURE 5|LECTURE 5]]
 ## Wolfram Mathematica
 
 The mathematical software for calculation, solving and graphical representation.

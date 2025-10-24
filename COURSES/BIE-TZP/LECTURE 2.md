@@ -1,5 +1,4 @@
-
-[[COURSES/BIE-TZP/LECTURE 5|LECTURE 5]]
+[[COURSES/BIE-GIT/LECTURE 4|LECTURE 4]]
 # Fundamentals of circuit analysis
 
 1. Basic connections of resistors, capacitors and inductors.

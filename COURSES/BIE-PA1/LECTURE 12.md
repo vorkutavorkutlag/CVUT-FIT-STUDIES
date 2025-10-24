@@ -1,3 +1,4 @@
+[[Lecture 13 (LAB)]]
 ## Binary Coding - Continuation
 
 For n bits, there are $2^n$ possible unique values that can be represented in binary.
