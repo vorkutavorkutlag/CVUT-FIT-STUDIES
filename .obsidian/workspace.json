@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COURSES/BIE-TZP/LECTURE 6.md",
+                "file": "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LECTURE 6"
+              "title": "LECTURE 11 - PART 2"
+            }
+          },
+          {
+            "id": "4287cf4d8b8f8062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COURSES/BIE-PA1/LECTURE 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LECTURE 14"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,10 +212,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c787f7f2b98b7f7f",
+  "active": "4287cf4d8b8f8062",
   "lastOpenFiles": [
-    "DATA/Pasted image 20251027114509.png",
+    "COURSES/BIE-PA1/Lecture 13 (LAB).md",
+    "COURSES/BIE-PA1/LECTURE 14.md",
+    "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
+    "COURSES/BIE-PA1/LECTURE 12.md",
+    "COURSES/BIE-GIT/BIE-GIT-CORE.md",
     "COURSES/BIE-TZP/LECTURE 6.md",
+    "DATA/Pasted image 20251027114509.png",
     "DATA/Pasted image 20251027114554.png",
     "DATA/Pasted image 20251027113659.png",
     "Pasted image 20251027113625.png",
@@ -224,8 +243,6 @@
     "COURSES/BIE-CSI/LECTURE 1.md",
     "COURSES/BIE-TZP/LECTURE 4.md",
     "COURSES/BIE-TZP/LECTURE 2.md",
-    "COURSES/BIE-PA1/LECTURE 12.md",
-    "COURSES/BIE-PA1/Lecture 13 (LAB).md",
     "COURSES/BIE-LA1/LECTURE 5 (TUTORIAL).md",
     "Untitled",
     "COURSES/BIE-LA1/LECTURE 6.md",
@@ -234,8 +251,6 @@
     "COURSES/BIE-UOS/LECTURE 5.md",
     "COURSES/BIE-UOS/LECTURE 6 (TUTORIAL).md",
     "COURSES/BIE-UOS/LECTURE 7.md",
-    "COURSES/BIE-UOS/LECTURE 7 - PART 2.md",
-    "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
     "lol\"hah",
     "COURSES/BIE-CSI",
     "COURSES/BIE-GIT",

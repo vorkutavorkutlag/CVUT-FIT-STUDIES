@@ -1,4 +1,4 @@
-
+[[LECTURE 14]]
 #### Statically allocated arrays
 
 An array is an ordered collection of values. It is declared using square brackets `[]` and initialized with curly brackets `{}`. It can be made multidimensional by staking square brackets `[][]`.
