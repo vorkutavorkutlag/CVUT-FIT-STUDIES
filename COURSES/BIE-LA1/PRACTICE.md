@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 9|LECTURE 9]]
 ### Vector Subspaces
 
 Given a field V, and a subset S of V $(S \subset V)$, if:

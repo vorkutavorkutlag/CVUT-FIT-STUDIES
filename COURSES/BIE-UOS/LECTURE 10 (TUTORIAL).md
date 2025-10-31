@@ -50,3 +50,7 @@ after that, only the shorter names stay in the conf directory. Then:
 ```bash
 mv * '../<10'
 ```
+
+
+NEXT TEST (START OF NOVEMBER) WILL INCLUDE FILTERS FROM TEE TO PASTE
+
