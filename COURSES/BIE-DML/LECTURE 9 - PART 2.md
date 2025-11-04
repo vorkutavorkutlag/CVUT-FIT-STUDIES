@@ -23,6 +23,7 @@ A set can be specified in either of the following ways:
 - by property characterizing its elements. e.g. $C = \{n \in N:$ n is even};
 more generally, the set of all elements x of a universe U that satisfy property p(x) is denoted by $\{x \in U: p(x)\}$
 - by an expression with a characterizing property. e.g: $C = \{2k: k \in N\}$
+- inductively
 - empty set
 
 In literature, the notation might slightly differ.

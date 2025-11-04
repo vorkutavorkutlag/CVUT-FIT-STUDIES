@@ -4,109 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c002cecdf7493df6",
+        "id": "bbc4d0a29b13a3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d309bbb582c933e8",
+            "id": "0e91084983644e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COURSES/BIE-GIT/LECTURE 4.md",
+                "file": "COURSES/BIE-DML/LECTURE 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LECTURE 4"
+              "title": "LECTURE 12"
             }
           },
           {
-            "id": "b85487cf3a33ba6c",
+            "id": "38c62fe2bd4ac1c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COURSES/BIE-LA1/PRACTICE.md",
+                "file": "COURSES/BIE-DML/LECTURE 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRACTICE"
-            }
-          },
-          {
-            "id": "c787f7f2b98b7f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LECTURE 11 - PART 2"
-            }
-          },
-          {
-            "id": "4287cf4d8b8f8062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COURSES/BIE-DML/LECTURE 10 (TUTORIAL) - PART 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LECTURE 10 (TUTORIAL) - PART 2"
-            }
-          },
-          {
-            "id": "2850b1e8c27e9ef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COURSES/BIE-UOS/LECTURE 10 (TUTORIAL).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LECTURE 10 (TUTORIAL)"
-            }
-          },
-          {
-            "id": "3d710c6900ac0ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COURSES/BIE-LA1/LECTURE 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LECTURE 9"
-            }
-          },
-          {
-            "id": "9f2c898bdc204fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COURSES/BIE-GIT/LECTURE 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LECTURE 6"
+              "title": "LECTURE 12"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,44 +184,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f2c898bdc204fa4",
+  "active": "deff39590551df3a",
   "lastOpenFiles": [
-    "Pasted image 20251031132055.png",
-    "Pasted image 20251031130632.png",
-    "Pasted image 20251031130623.png",
+    "PHOTOS/Pasted image 20251104161500.png",
+    "COURSES/BIE-DML/LECTURE 9 - PART 2.md",
+    "COURSES/BIE-DML/LECTURE 12.md",
     "COURSES/BIE-LA1/PRACTICE.md",
-    "COURSES/BIE-LA1/LECTURE 8 (Tutorial).md",
-    "COURSES/BIE-LA1/LECTURE 9.md",
-    "COURSES/BIE-GIT/LECTURE 6.md",
-    "COURSES/BIE-UOS/LECTURE 10 (TUTORIAL).md",
     "COURSES/BIE-DML/LECTURE 11 (TUTORIAL).md",
-    "COURSES/BIE-DML/LECTURE 9.md",
+    "COURSES/BIE-LA1/PRACTICE 2.md",
+    "COURSES/BIE-GIT/LECTURE 6.md",
+    "COURSES/BIE-GIT/LECTURE 5.md",
+    "[COURSES/BIE-GIT/LECTURE 6.md",
+    "[COURSES/BIE-GIT",
+    "[COURSES",
+    "COURSES/BIE-PA1/Lecture 13 (LAB).md",
+    "COURSES/BIE-PA1/LECTURE 15.md",
+    "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
     "COURSES/BIE-DML/LECTURE 10 (TUTORIAL) - PART 2.md",
+    "COURSES/BIE-UOS/LECTURE 10 (TUTORIAL).md",
+    "COURSES/BIE-LA1/LECTURE 9.md",
+    "COURSES/BIE-PA1/LECTURE 14.md",
+    "COURSES/BIE-DML/LECTURE 9.md",
+    "PHOTOS/Pasted image 20251103153906.png",
+    "COURSES/BIE-GIT/LECTURE 4.md",
+    "PHOTOS/Pasted image 20251031132055.png",
+    "PHOTOS/Pasted image 20251031130632.png",
+    "PHOTOS/Pasted image 20251031130623.png",
+    "COURSES/BIE-LA1/LECTURE 8 (Tutorial).md",
     "COURSES/BIE-UOS/LECTURE 5.md",
     "COURSES/BIE-UOS/LECTURE 6 (TUTORIAL).md",
     "COURSES/BIE-UOS/BIE-UOS-CORE.md",
     "COURSES/BIE-UOS/TECHNICALITY & COMMANDS.md",
-    "COURSES/BIE-PA1/LECTURE 14.md",
-    "COURSES/BIE-PA1/Lecture 13 (LAB).md",
-    "COURSES/BIE-PA1/LECTURE 11 - PART 2.md",
     "COURSES/BIE-PA1/LECTURE 12.md",
     "COURSES/BIE-GIT/BIE-GIT-CORE.md",
     "COURSES/BIE-TZP/LECTURE 6.md",
-    "DATA/Pasted image 20251027114509.png",
-    "DATA/Pasted image 20251027114554.png",
-    "DATA/Pasted image 20251027113659.png",
+    "PHOTOS/Pasted image 20251027114509.png",
+    "PHOTOS/Pasted image 20251027114554.png",
+    "PHOTOS/Pasted image 20251027113659.png",
     "Pasted image 20251027113625.png",
-    "DATA/Pasted image 20251027113628.png",
-    "DATA/Pasted image 20251027113602.png",
-    "DATA/Pasted image 20251027113538.png",
-    "DATA/Pasted image 20251027110910.png",
-    "COURSES/BIE-TZP/LECTURE 5.md",
-    "COURSES/BIE-LA1/LECTURE 7.md",
-    "COURSES/BIE-GIT/LECTURE 4.md",
-    "COURSES/BIE-GIT/LECTURE 3.md",
-    "COURSES/BIE-GIT/LECTURE 5.md",
-    "COURSES/BIE-GIT/LECTURE 2.md",
-    "COURSES/BIE-DML/LECTURE 10 (TUTORIAL).md",
+    "PHOTOS/Pasted image 20251027113628.png",
+    "PHOTOS/Pasted image 20251027113602.png",
     "Untitled",
     "lol\"hah",
     "COURSES/BIE-CSI",
@@ -299,7 +231,6 @@
     "CVUT FIT/BIE-PA1",
     "CVUT FIT/BIE-TZP",
     "CVUT FIT",
-    "COURSES/BIE-LA1",
-    "DATA"
+    "COURSES/BIE-LA1"
   ]
 }

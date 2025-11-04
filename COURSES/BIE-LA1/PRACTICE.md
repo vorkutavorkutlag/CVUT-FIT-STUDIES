@@ -19,6 +19,7 @@ If we try the same thing with quadratic formulas, say $y=x^2$:
 $S = \{\begin{bmatrix} a_1 \\ a_2 \end{bmatrix}\ \in R^2 : a_2 = {a_1}^2\}$
 We try to test it with the definition of the subspace. 
 $\begin{bmatrix} a \\ a^2 \end{bmatrix} + \begin{bmatrix} b \\ b^2 \end{bmatrix} = \begin{bmatrix} a+b \\ a^2+b^2 \end{bmatrix}$ 
+
 However, $(a+b)^2 \neq a^2+b^2$ therefore it is not a subspace.
 This also follows why we tackle linear subspaces exclusively.
 

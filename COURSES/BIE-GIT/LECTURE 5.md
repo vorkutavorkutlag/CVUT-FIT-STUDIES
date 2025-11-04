@@ -1,3 +1,4 @@
+[[COURSES/BIE-GIT/LECTURE 6|LECTURE 6]]
 ## Conflict Resolution
 
 

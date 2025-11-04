@@ -1,4 +1,4 @@
-[[LECTURE 12]]
+[[COURSES/BIE-PA1/LECTURE 12]]
 # FUNCTIONS
 
 A function is defined from its name, its return type, and its parameters.

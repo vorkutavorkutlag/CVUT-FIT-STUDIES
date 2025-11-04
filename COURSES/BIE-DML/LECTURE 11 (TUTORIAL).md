@@ -1,3 +1,4 @@
+[[COURSES/BIE-DML/LECTURE 12|LECTURE 12]]
 ## Mathematical Induction
 
 In the world of mathematics, there are a variety of different methods of proofs. Those include direct proofs, indirect proofs (contraposition / inverse implication), proof by contradiction, etc.
