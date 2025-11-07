@@ -1,3 +1,5 @@
+[[COURSES/BIE-GIT/LECTURE 7|LECTURE 7]]
+
 Today we will be practicing on fixing repositories. It is not a universal approach, we should tailor it for our own repository, but it's filled with useful method and commands to mold our repository to what we want it to be.
 
 On the courses page, in the repository evaluation page, you will find a plethora of useful methods to bring your repository up to standard with the course.

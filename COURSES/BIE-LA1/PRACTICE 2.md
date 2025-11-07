@@ -1,3 +1,5 @@
+[[COURSES/BIE-LA1/LECTURE 10|LECTURE 10]]
+
 Last time we talked about span and linear independence.
 
 Vectors are linearly dependent if they are related by a scalar.

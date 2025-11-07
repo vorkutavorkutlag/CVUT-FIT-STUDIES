@@ -1,4 +1,4 @@
-[[LECTURE 10]]
+[[COURSES/BIE-PA1/LECTURE 10]]
 The lecture continued by elaborating on the rules of the Gregorian leap years, and how to convert them into a simple algorithm using if statements and conditions.
 It is important to note that there is an importance to the order of if statements. For example, an algorithm calculating how many digits a number from a given range has by comparisons, it is more efficient to first check the numbers of a higher order (5 digits), as there are a magnitude more of them than numbers of a smaller order (1, 2 digits).
 
