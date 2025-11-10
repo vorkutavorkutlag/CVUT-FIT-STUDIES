@@ -1,3 +1,4 @@
+[[COURSES/BIE-TZP/LECTURE 7|LECTURE 7]]
 # Circuits With Transistors
 
 ### Transistors
