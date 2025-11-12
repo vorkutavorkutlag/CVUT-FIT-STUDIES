@@ -1,4 +1,4 @@
-
+[[LECTURE 16]]
 ## Pointers
 
 Pointers address abstraction in a high-level computer language. Pointer to type T represents a memory address where value of data type T is stored. Pointer declaration is as follows:
