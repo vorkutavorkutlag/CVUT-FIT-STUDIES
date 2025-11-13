@@ -1,4 +1,4 @@
-[[LECTURE 11 - PART 2]]
+[[COURSES/BIE-PA1/LECTURE 11 - PART 2]]
 ### Integer Data Types - Continuation
 
 Integer data types may be assigned values different from its data type. If a floating point is assigned to an integer, the value is converted first, e.g. fractional part discarded. If the result cannot be represented in the target type, the behaviour is undefined. There are different cases when an integer value is assigned to an integer variable.

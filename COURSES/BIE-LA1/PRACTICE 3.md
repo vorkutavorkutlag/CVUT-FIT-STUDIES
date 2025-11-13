@@ -1,3 +1,5 @@
+
+[[COURSES/BIE-LA1/LECTURE 11|LECTURE 11]]
 90 minutes. not a lot of questions, but a lot of sub-questions.
 No true false questions.
 Allowed to use every thing we used in class, except theorems such as the column pivots. Marzieh wants you to understand that a matrix gives you a series of linear equations. When you have a pivot in every row, you cannot just jump straight to the answer. You have to elaborate that it represents that the SLE implies this and that.

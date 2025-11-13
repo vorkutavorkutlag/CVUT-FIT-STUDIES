@@ -1,4 +1,4 @@
-[[LECTURE 11 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 11 (TUTORIAL)]]
 A couple of proofs to practice how to prove using direct and indirect proof.
 
 Let m, n, p, be integers.

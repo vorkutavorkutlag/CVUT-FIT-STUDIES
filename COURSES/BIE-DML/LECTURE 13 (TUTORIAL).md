@@ -1,4 +1,4 @@
-
+[[LECTURE 14 (TUTORIAL)]]
 ## Strong Induction
 
 Weak induction works as the following: $BS + IS(f(m) \implies f(m+1))$

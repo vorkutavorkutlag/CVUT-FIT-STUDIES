@@ -1,3 +1,4 @@
+[[COURSES/BIE-UOS/LECTURE 11 (TUTORIAL)|LECTURE 11 (TUTORIAL)]]
 
 There was supposed to be a test today, but due to technical issues we will be proceeding without 
 

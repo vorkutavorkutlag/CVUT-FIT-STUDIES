@@ -1,4 +1,4 @@
-[[LECTURE 11]]
+[[COURSES/BIE-PA1/LECTURE 11]]
 Use flag -02 when compiling with g++ to optimize the compilation.
 Takes slightly more time.
 ## Binary Data
