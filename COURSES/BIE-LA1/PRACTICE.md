@@ -27,7 +27,7 @@ Let's see an example with $R^3$ . If we separate it to 8 octants (quadrants, in 
 $S = \{\begin{bmatrix} a_1 \\ a_2 \\ a_3 \end{bmatrix}\ \in R^2 : a_1, a_2, a_3 \geq 0\}$
 This would be the first octant. It is closed for the two conditions. However, since it is only positive numbers, if we multiply by a negative scalar, we see that the result is not in S.
 Let $c \in R^-$ 
-$c * \begin{bmatrix} a_1 \\ a_2 \\ a_3 \end{bmatrix} = \begin{bmatrix} c*a_1 \\ c*a_2 \\ c*a_3 \end{bmatrix}$ where $c*a_1, c*a_2, c_a3 \neq 0$, which is not in our domain.
+$c * \begin{bmatrix} a_1 \\ a_2 \\ a_3 \end{bmatrix} = \begin{bmatrix} c*a_1 \\ c*a_2 \\ c*a_3 \end{bmatrix}$ where $c*a_1, c*a_2, c*a_3 \neq 0$, which is not in our domain.
 
 Now, let us try to understand this topic through pure computation rather than visualisation, so that we will be able to tackle more complex problems.
 Consider vector space V.

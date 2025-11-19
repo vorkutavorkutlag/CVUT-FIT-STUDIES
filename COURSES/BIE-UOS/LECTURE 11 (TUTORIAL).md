@@ -70,3 +70,23 @@ grep -E "\<[ab][[:alnum:]]*[aeiouy]\>"
 grep -E "\<[ab][a-zA-Z0-9]*[aeiouy]\>" # Alternative
 grep -E "\<[ab][^[:punct:]]*[aeiouy]\>" # Alternative
 ```
+
+From the file "words", list the lines that have the same leading and trailing character.
+```bash
+grep -E '^(.).*\1$' words
+```
+...With only 5 letters (like trident):
+```bash
+grep -E '^(.).*\1$' words | grep -E '^[[:alnum:]]{5}$'
+```
+
+From the file "b.txt", list the lines that contain at least two of the same word
+```bash
+	grep -E '\<([[:alnum:]]+)\>.*\<\1\>' b.txt
+```
+
+There was some random text and we have to display all lines with a word which contains ten letters (upper case, lower case, digits)
+```bash
+grep -E '[a-zA-Z0-9]{10}' text.txt
+grep -E '[[:alnum:]]{10}' text.txt
+```

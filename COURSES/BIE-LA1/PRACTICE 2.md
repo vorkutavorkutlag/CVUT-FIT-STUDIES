@@ -12,7 +12,7 @@ Consider $F^n$ . If the list $(v_1, ..., v_m)$ is $LI$, then $m \leq n$.
 We have a similar constraint on span. Intuitively, the span is telling us what we can reach with a combination of our vectors. 
 Consider $F^n$ . If the span $span(v_1, ..., v_m)$ spans $F^n$, then $m \geq n$.
 
-In a reduced row echelon form, you have to make sure all the pivots are equal to `1`, and that the columns above the pivots are zeros. This course will not require knowing how to achieve it.
+In a reduced row echelon form, you have to make sure all the pivots are equal to `1`, and that the columns above the pivots are zeros. This test will not require knowing how to achieve it.
 
 In an exam, we want to write that the REF gives us the following equations, and if there are any redundant columns, i.e., no pivots and equal to zero. As a consequence, we may find a free variable. If you just write that it does not having any pivots implies you are in the span of the previous vectors.
 

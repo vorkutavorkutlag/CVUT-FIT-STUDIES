@@ -1,4 +1,4 @@
-[[LECTURE 15]]
+[[COURSES/BIE-PA1/LECTURE 15]]
 #### ...Structures and typedef
 The keyword typedef is used to give an existing type another name. The new name is an alias, it still denotes the same type. typedef works with any type, not only structures. It cannot replace existing types.
 

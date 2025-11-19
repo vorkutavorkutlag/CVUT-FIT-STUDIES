@@ -14,10 +14,10 @@ It is the set of all linear combinations of these vectors.
 We want to make a matrix of these four vectors. It will be 4 by 4, and you will write your vectors in the columns.
 Marzieh wants you to know that you are not just putting numbers in a box and solving. You are inducing a system of linear equations in this way, representing it in a matrix.
 It is important to remember your field. In our specific case:
-$span(v_1, v_2, v_3, v_4) = \{v \in R^4 : \exists c_1, c_2, c_3, c_4 \in R c_1v_1 + c_2v_2 + c_3v_3 + c_4v_4\}$
+$span(v_1, v_2, v_3, v_4) = \{v \in R^4 : \exists c_1, c_2, c_3, c_4 \in R$ s.t. $c_1v_1 + c_2v_2 + c_3v_3 + c_4v_4\}$
 We want to solve $c_1v_1 + c_2v_2 + c_3v_3 + c_4v_4 = d$
 Where we have arbitrary scalars and an arbitrary result matrix. 
-The next step is augmenting our matrix. Essentially, take the matrix of the vectors, and then add another column representing the result, ad add a line between the coefficients and the $d_1, d_2, d_3, d_4$. 
+The next step is augmenting our matrix. Essentially, take the matrix of the vectors, and then add another column representing the result, and add a line between the coefficients and the $d_1, d_2, d_3, d_4$. 
 Marzieh will take points off if you do not write the thought process from span to augmented matrix. Half the battle is setting this system up. 
 Our goal is to find such vectors...
 
