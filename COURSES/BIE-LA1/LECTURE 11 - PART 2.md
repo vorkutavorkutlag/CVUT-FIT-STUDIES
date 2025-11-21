@@ -1,4 +1,4 @@
-[[LECTURE 12 (Tutorial)]]
+[[COURSES/BIE-LA1/LECTURE 12 (Tutorial)]]
 
 She will not accept any other way to calculate the inverse of a matrix other than what we learned in class. It is important, other than the computation, why it is true and why it works.
 

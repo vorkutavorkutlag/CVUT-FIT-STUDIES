@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-UOS/LECTURE 12 (TUTORIAL)|LECTURE 12 (TUTORIAL)]]
 ### REGEX
 
 Regular expressions are a very powerful tool for modified text. The problem is, we are using similar metacharacters as we used with the shell, but sometime the meaning is different. So be careful with the context in which you are using any metacharacters.
@@ -89,4 +89,14 @@ There was some random text and we have to display all lines with a word which co
 ```bash
 grep -E '[a-zA-Z0-9]{10}' text.txt
 grep -E '[[:alnum:]]{10}' text.txt
+```
+
+One instance of a character in a line
+```bash
+grep -E '' input.txt
+```
+
+All lines that contain two words that contain character 'e':
+```bash
+grep -E '\<e[[:alnum:]]*\>.*\<e[[:alnum:]]*\>' input.txt
 ```
