@@ -1,3 +1,4 @@
+[[LECTURE 8]]
 ## Basic Logic Gates
 
 ### Boolean Logic
