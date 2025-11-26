@@ -21,8 +21,8 @@ awk 'NR==3 || NR>=5 && NR<=10 || NR>=15 { print $0 } ' f1
 sed '3d;5,10d;15,$d' f1
 awk '!(NR==3 || NR>=5 && NR<=10 || NR>=15) { print $0 } ' f1
 ```
-
-4. Write out only the lines representing the symbolic lines from the f2 file
+	
+4. Write out only the lines representing the symbolic links from the f2 file
 ```bash
 sed -En '/^l/p' f2
 awk '/^l/ {print $0}' f2
@@ -61,11 +61,41 @@ sed -E 's/\<[[:alpha:]]+\>/XXXXX/2g'
 In the f3 file, replace the last word on the line with the string XXXXX.
 ```bash
 sed -E 's/\<[[:alpha:]]+ *$/XXX/' f3
-awk '{if (NF == IDK!!) $1="XXX" ; print $0}' f3
+awk '{ $NF = "XXXXX"; print }'
 ```
 
-Print the first word from every line:
+Print the first word from every line.
 ```bash
 awk '{print $1}' f3
 ```
 
+Print the last word from every line.
+```bash
+awk '{print $NF}' f3
+```
+
+Print the line that has the most words from the file f3.
+```bash
+awk '{if (NF > max) {max = NF; line = $0}} END {print line}' f3
+```
+
+In file f3, replace the first word on the line with the string XXXXX using awk.
+```bash
+awk '{$1 = "XXXXX"; print}' f3
+sed 's/^[^ ]*/XXXXX/' f3
+```
+
+In file f3, replace the second to last word on the line with the string XXXXX using awk.
+```bash
+awk 'NF >= 2 {$(NF-1) = "XXXXX"} 1' f3
+```
+
+What is the longest word in the f3 file?
+```bash
+awk '{for(i=1;i<=NF;i++) print length($i)}' f3 | sort -n | uniq -c
+```
+
+In the f3 file, replace the word before the last word on the line with the string XXXXX.
+```bash
+awk 'NF >= 2 { $(NF-1) = "XXXXX" } 1' f3
+```

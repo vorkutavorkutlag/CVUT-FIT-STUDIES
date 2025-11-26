@@ -1,3 +1,4 @@
+[[COURSES/BIE-PA1/LECTURE 16|LECTURE 16]]
 As a reminder, 
 a function is **injective** where every value is unique.
 $\forall x, y \in A : f(x) = f(y) \implies x = y$
