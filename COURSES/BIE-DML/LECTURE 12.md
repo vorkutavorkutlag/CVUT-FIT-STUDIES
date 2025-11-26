@@ -1,4 +1,4 @@
-[[LECTURE 13 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 13 (TUTORIAL)]]
 # Sets, Continued
 
 Visualizing sets has various methods, including Venn Diagrams, denoting the universe in which we are working with, and within circles depicting sets. It is not rigorous enough to visualize more complex situations.
