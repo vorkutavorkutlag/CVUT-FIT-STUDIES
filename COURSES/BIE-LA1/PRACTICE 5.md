@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 14|LECTURE 14]]
 ### A bit more on matrix invertibility...
 
 A matrix can be viewed as a function $M_{m,n}: F^n \rightarrow F^M$
