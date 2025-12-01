@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LECTURE 20.md",
+                "file": "COURSES/BIE-PA1/LECTURE 19 (LAB).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LECTURE 20"
+              "title": "LECTURE 19 (LAB)"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "d9d2fb4fbdf95583",
   "lastOpenFiles": [
+    "COURSES/BIE-PA1/LECTURE 20.md",
     "COURSES/BIE-PA1/LECTURE 18.md",
-    "LECTURE 20.md",
     "COURSES/BIE-PA1/LECTURE 19 (LAB).md",
     "COURSES/BIE-LA1/PRACTICE 5.md",
     "COURSES/BIE-LA1/LECTURE 13.md",
