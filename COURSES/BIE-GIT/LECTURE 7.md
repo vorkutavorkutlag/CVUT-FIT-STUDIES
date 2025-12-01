@@ -11,3 +11,5 @@ Secure Shell, unlike FTP (File Transfer Protocol), is not a protocol, and in git
 
 
 Something something, worktree, stash...
+
+To change the file across history we can remove the file at all through the entire repository with --invert paths. And then rebase interactive to the point where we want to introduce it, or create a fix-up.

@@ -74,10 +74,13 @@ Scalar multiplication: c
 Addition: always 1
 Swapping: always -1  
 
-__Theorems__
+## Most Important Theorems
+The determinants of elementary matrices can be obtained by the definition of determinants.
 Let E be an elementary matrix obtained by the addition row operation $R_j+cR_1\rightarrow R_j$ on the identity matrix. Then $det(E)=1$
 Let E be an elementary matrix obtained by the multiplication row operation $cR_i \rightarrow R_i$
 on the identity matrix. Then $det(E) = c$
 Let E be an elementary matrix obtained by the swap row operation $R_i\leftrightarrow R_j$ on the identity matrix. Then $det(E)=-1$
+
+It is possible to make column operations when calculating the determinant of a matrix, and the determinants of those matrices representing the column operations have the same evaluations as the ones discussed above.
 
 Let A be invertible, suppose that A can be row-reduced to identity via $k$ multiplication row operations as well as $s$ swap row operations (we do not care about addition operations). Then, $det(A)=(-1)^s(c_1...c_k)^{-1}$

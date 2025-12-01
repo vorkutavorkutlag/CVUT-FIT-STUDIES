@@ -74,7 +74,7 @@ To investigate the kernel, the set of all vectors that result in a zero when mul
 At the end we get the same equations whether we do it from the start or product the arbitrary vector in the end. We get the same equations in the end, so the set and subspace will still be the same. Marzieh so does it this way.
 
 A few theorems that come from this.
-Let's define $rank(A) = dim(im(A))$
+Let's define $rank(A) = dim(im(A)) = dim(ran(A))$ = dim(span of columns)
 If we have a a matrix $A \in M_{m,n}(F)$ then it holds that 
 $m = dim(ker(A)) + rank(A)$
 Fundamental theorem of linear algebra.

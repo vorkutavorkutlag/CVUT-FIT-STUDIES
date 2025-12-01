@@ -51,3 +51,8 @@ It follows the order $O(n^2)$ .
 ### Select Sort
 
 Find the smallest element in the remainder of the array. Swap the smallest and first element. Repeat the previous steps, with the array one element smaller.
+
+### Insert Sort
+Start with the first element of the array. The array is sorted.
+Take element with index 1 and insert it to the sorted array, the size of the sorted array increases.
+Continue with elements on all the indices until it is inductively sorted.
