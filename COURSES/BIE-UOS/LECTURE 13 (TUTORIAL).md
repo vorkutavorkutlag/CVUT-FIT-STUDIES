@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-UOS/LECTURE 14|LECTURE 14]]
 # Shell Scripting
 
 Create a shell script that prints the number of lines in /`etc/passwd`.
@@ -104,7 +104,7 @@ Though, in a shell script, we can combine the grep and if condition into a singl
 That is because it returns an exit code, and by checking `#?`, we are basically checking it.
 ```bash
 ...
-if echo $ARG | grep -vE '^-{0,1}[0-9]+$' > /dev/null 2>&1;
+if echo $ARG | grep -vE '^-{0,1}[[:digit:]]+$' > /dev/null 2>&1;
 	then
 ...
 ```

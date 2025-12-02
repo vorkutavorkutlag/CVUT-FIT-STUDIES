@@ -1,4 +1,4 @@
-
+DEPRECATED
 // This is very messy and should just be used to skim through commands we learned
 
 The data in UNIX is organized as the tree of directories. At the very top is the root directory, denoted by `/`. As opposed to Windows' File Explorer, which contains drives, and those drives contain their respective directories.
