@@ -6,4 +6,4 @@ It is recommended to look at the lecture slides and tutorials first, and attempt
 When writing emails, do not write more than four lines... Ok?
 
 Test 1 (10p) -> first half of November
-Test 2 (30p) -> first week of December
+Test 2 (30p) -> first week of December [[TEST 2 PREPARATION - CHAPTER I]]

@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-LA1/LECTURE 15 (Tutorial)|LECTURE 15 (Tutorial)]]
 The test is just until the beginning of the determinant, not including the determinant.
 Knowing how to get the basis, and then being able to do change of basis.
 
