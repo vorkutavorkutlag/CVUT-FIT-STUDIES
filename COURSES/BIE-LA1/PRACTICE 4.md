@@ -56,7 +56,8 @@ Therefore, the inverse of matrix multiplication: $(AB)^{-1} = B^{-1} A^{-1}$
 Also, invertibility follows: $(A^{-1})^{-1} = A$
 
 A detour into elementary matrices. When we do Gaussian Elimination, we take a matrix and apply operations on a matrix. The modern way of thinking of row operations, is applying matrix multiplication on the matrix. If we want to swap the rows of a matrix, we could write the row operations for swapping rows, but we can also look at it as the following: We can multiply it by some matrix that will swap the rows for me.
-The matrix swapping rows will begin from the identity matrix, where the move the 1's such that the multiplication acts as a swapping. We move our row index down to the other one, and the other one up to the first one. The rest is zero, filling the gaps.
+
+The matrix swapping rows will begin from the identity matrix, where we move the 1's such that the multiplication acts as a swapping. We move our row index down to the other one, and the other one up to the first one. The rest is zero, filling the gaps.
 The matrix multiplication for multiplying a row by k, we can start from the identity matrix and then change the 1 on the row where we are doing the multiplication by k.
 Then, the last one, operations of taking a multiple of some row and summing it with some other row, and putting it inside the other row. The way we look at this, is the rows, in general, for a matrix, give things out, and the columns accept things in. We again start with the identity matrix, and then change of the zeros according to the row we are adding to the multiple we are adding it by.
 

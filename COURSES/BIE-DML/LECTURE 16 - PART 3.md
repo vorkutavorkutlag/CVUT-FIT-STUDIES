@@ -1,3 +1,4 @@
+[[LECTURE 17 (TUTORIAL)]]
 ### Linear Diophantine Equations
 We are visiting a strange country, where the coin values are 7 and 13 peso. How many coins of each value are needed to pay the amount of 125 peso?
 This problem can be described by the equation $7x+13y=125$, whose solution for x and y should be found in the integer domain.
