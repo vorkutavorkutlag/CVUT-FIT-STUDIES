@@ -1,4 +1,4 @@
-[[COURSES/BIE-PA1/LECTURE 16]]
+[[LECTURE 17 (LAB)]]
 ## Pointer Continuation and Dynamic Memory Allocation
 
 So far, we have been using memory which was ours from the beginning of the memory. We had variables, but we could not create variables with an arbitrary size. For that, we have to get familiarized with this topic.

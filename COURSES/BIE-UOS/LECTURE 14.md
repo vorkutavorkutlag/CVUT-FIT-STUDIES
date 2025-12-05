@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 15 (Tutorial)|LECTURE 15 (Tutorial)]]
 # Permissions
 
 Permissions are an important topic in Unix Operating Systems, a crucial component which allows multi-user compatibility without conflict or intrusion.

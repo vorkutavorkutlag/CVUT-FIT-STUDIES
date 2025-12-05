@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 16|LECTURE 16]]
 The idea today is not really structured, we'll be bouncing around some topics. Fun!
 
 The matrix space forms a vector space.
@@ -107,6 +108,9 @@ First we compute REF, then we start adding things.
 We augment it with the standard basis, and apply row operations.
 
 We will definitely have change of basis, 2-3 true or false questions, computing matrix inverse, computing fundamental subspaces, and some questions about how rank relates to the columns.
+
+!!! UPDATE !!!
+TRUE OR FALSE QUESTIONS WILL NOT BE IN THE TEST APPARENTLY
 
 <u>Important Theorems:</u>
 - Rank theorem

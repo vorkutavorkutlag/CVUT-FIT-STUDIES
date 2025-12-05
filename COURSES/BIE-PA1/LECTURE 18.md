@@ -1,4 +1,4 @@
-[[LECTURE 19]]
+[[LECTURE 19 (LAB)]]
 ## Multidimensional array
 
 #### Static

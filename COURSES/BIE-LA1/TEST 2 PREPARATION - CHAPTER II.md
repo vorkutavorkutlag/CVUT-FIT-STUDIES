@@ -111,7 +111,7 @@ If $R$ has $k$ zero rows, the bottom $k$ rows of $E$ form a basis of $ker(A^T)$
 
 To summarize how to find all the bases of fundamental subspaces...
 Let $A \in M_{m,n}(F)$. 
-We can find bases of the four subspaces by row reducing $[A|I_m]$ to REF $[R|E]$ 
+We can find bases of the four subspaces by row reducing $[A|I_n]$ to REF $[R|E]$ 
 - The non-zero rows of $R$ form a basis for $ran(A^T)$
 - The rows of $E$ beside the zero rows of $R$ form a basis of $ker(A^T)$
 - The columns of A corresponding to leading columns in $R$ form a basis of $ran(A)$.

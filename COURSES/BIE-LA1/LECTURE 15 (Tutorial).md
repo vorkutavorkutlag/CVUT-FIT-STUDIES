@@ -1,4 +1,4 @@
-[[COURSES/BIE-LA1/LECTURE 14|LECTURE 14]]
+[[TEST 2 PREPARATION - CHAPTER I]]
 Computing the determinant!
 In order to find eigenvalues (next lectures) we really should know how to compute the determinant.
 For example, for the matrix $A = \begin{bmatrix}5 & 6 & -3 \\ 0 & -2 & 3 \\ 2 & 4 & -1 \end{bmatrix}$ we should use the expansion formula along the first column. Then, the determinant will be $det(A)=(-1)^{1+1}3 * det \begin{bmatrix} -2 & 3 \\ 4 & -1 \end{bmatrix} + 0 + (-1)^{3+1} * 2 * det \begin{bmatrix} 6 & 3 \\ -2 & 3 \end{bmatrix}$ 

@@ -1,3 +1,4 @@
+[[LECTURE 16 - PART 3]]
 # Number Theory
 
 6.3. ($\forall a \in z) (6|a) \iff (2|a \land 3|a)$
