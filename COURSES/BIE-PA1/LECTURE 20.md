@@ -1,4 +1,4 @@
-
+[[LECTURE 21]]
 Continuing sorting and whatnot, we are now talking about the maximum subarray problem.
 Given a sequence, the problem is to find a subsequence such that its sum in the subsequence is the greatest possible.
 The brute force solution is to examine all pairs from the start and end indices in the array. Remember the pair resulting in the greatest sum. However, there are plenty of repetitions and unnecessary computations.

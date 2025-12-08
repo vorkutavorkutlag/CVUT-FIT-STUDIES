@@ -46,7 +46,7 @@ echo $TZ
 user@pc:~$ export PS1-"AAA"
 AAA: ....
 ```
-[PS1 is the Prompt String One environment variable, being the string in-before the command prompt in the shell. Using `export`, it is editable.]
+`PS1` is the Prompt String One environment variable, being the string in-before the command prompt in the shell. Using `export`, it is editable.
 
 `gnome-terminal &` will create another ssh terminal as a child of the original one, though it will have its own local environment, even if it inherits the local variables made up to that point.
 
