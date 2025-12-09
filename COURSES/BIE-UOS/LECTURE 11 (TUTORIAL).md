@@ -21,7 +21,7 @@ Sometimes, it is necessary to add the flag `-E` to be able to interpret more reg
 
 How many lines contain 'a' or 'A' at the beginning of a line?
 ```bash
-grep -Ec "[aA]" input.txt
+grep -Ec "^[aA]" input.txt
 ```
 The `^` symbol has different meanings on context. Outside the square brackets, it refers to the start of the line. Inside the brackets, as in, `[^aA]` it would refer to everything that does not contain 'a' or 'A'.
 
