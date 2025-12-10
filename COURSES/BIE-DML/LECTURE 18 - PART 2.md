@@ -1,4 +1,4 @@
-
+[[LECTURE 19 (TUTORIAL)]]
 # Relations
 
 Relation is a relationship between objects. We see relations all around us, their properties are interesting for mathematics. We already know from predicate logic some relations. Its interpretation for elements of specifics sets are relations.
@@ -9,6 +9,8 @@ Numbers 3,4,5 satisfy $3^2+4^2=5^2$ (3,4,5) $\in$ Pyth
 
 A binary relation is defined as such.
 Let $X,Y$ be some nonempty sets, and let $R \subseteq X \times Y$ be an arbitrary mapping.
+Except, it isn't really a mapping. Mappings say that for every $x$ there is at most one $y$.
+However, there could be a lot more than one $y$ for every $x$.
 The ordered triple $(R, X, Y)$ is called a binary relation from X into Y. We call X the left domain and Y the right domain of the relation $(R, X, Y)$.
 
 If $(a,b) \in R$ we say that $a$ is in relation $R$ with $b$ and we write $aRb$
