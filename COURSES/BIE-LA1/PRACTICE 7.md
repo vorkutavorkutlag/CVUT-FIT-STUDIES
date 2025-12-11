@@ -1,4 +1,4 @@
-
+[[COURSES/BIE-LA1/LECTURE 18|LECTURE 18]]
 # Computing Determinants
 
 The sigma in $S_n$ denotes a permutation. We can express a permutation as swapping two elements. After long enough, we reach the permutation.

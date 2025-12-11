@@ -111,7 +111,7 @@ will need to use when accessing fray1 from non-school machine.
 Testing arguments:
 ```
 		-a file
-              True if file exists.
+	          AND operator    
        -b file
               True if file exists and is a block special file.
        -c file

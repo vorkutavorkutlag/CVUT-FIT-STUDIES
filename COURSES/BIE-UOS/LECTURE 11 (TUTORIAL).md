@@ -82,7 +82,7 @@ grep -E '^(.).*\1$' words | grep -E '^[[:alnum:]]{5}$'
 
 From the file "b.txt", list the lines that contain at least two of the same word
 ```bash
-	grep -E '\<([[:alnum:]]+)\>.*\<\1\>' b.txt
+grep -E '\<([[:alnum:]]+)\>.*\<\1\>' b.txt
 ```
 
 There was some random text and we have to display all lines with a word which contains ten letters (upper case, lower case, digits)
