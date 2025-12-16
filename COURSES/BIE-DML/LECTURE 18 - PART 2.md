@@ -1,4 +1,4 @@
-[[LECTURE 19 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 19 (TUTORIAL)]]
 # Relations
 
 Relation is a relationship between objects. We see relations all around us, their properties are interesting for mathematics. We already know from predicate logic some relations. Its interpretation for elements of specifics sets are relations.

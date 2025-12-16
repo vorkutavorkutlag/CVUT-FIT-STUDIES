@@ -1,3 +1,4 @@
+[[COURSES/BIE-DML/LECTURE 20|LECTURE 20]]
 $gcd(a,b) = gcd(b,a)$ 
 Also, since it's a positive number,
 $=gcd(|a|, |b|)$ 
