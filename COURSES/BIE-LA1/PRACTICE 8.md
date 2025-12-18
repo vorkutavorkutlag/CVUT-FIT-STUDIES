@@ -1,3 +1,4 @@
+[[COURSES/BIE-LA1/LECTURE 20|LECTURE 20]]
 The determinant captures how much the matrix distorts the space.
 The topic of eigenvalues and eigenvectors asks the question... We have a vector before a matrix is applied, does there exist a non-zero vector that stays in the same direction after the matrix is applied?
 

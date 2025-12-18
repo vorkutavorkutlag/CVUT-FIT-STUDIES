@@ -1,4 +1,4 @@
-[[LECTURE 21 (TUTORIAL)]]
+[[COURSES/BIE-DML/LECTURE 21 (TUTORIAL)]]
 Finishing up binary relations.
 Binary relations are three-tuples of two nonempty sets, and a mapping, which is a subset of the cartesian product of those two sets.
 

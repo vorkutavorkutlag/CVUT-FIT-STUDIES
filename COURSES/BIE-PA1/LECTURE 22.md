@@ -1,3 +1,4 @@
+[[LECTURE 23 (LAB)]]
 ## Data Structure
 
 What is the data structure, how does it relate to a structure, and what is the difference?
