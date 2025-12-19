@@ -1,3 +1,5 @@
+[[LECTURE 22 (TUTORIAL)]]
+
 A vector space is spanning if it admits a spanning list. As in, if there exists a list that spans it.
 A matrix is invertible $\iff$ SLE $Ax=b$ has a unique solution for any $x, b$ in the field.
 If in the REF form of $A$ it has a pivot in every column, it is LI. 
