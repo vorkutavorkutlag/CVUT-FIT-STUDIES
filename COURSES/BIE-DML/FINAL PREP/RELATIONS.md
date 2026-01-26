@@ -1,4 +1,3 @@
-
 The definition of a relation is the subset of the cartesian product of two sets. The difference between that and mapping is, that by definition, a mapping only has at most one y for every x.
 
 The domain of the relation, $D(R)$ $R \subseteq X \times Y$ is defined $\{x \in X : \exists y \in Y : (x, y) \in R\} \subseteq X$ 
@@ -80,3 +79,59 @@ Write the quotient set X/S.
 
 The smallest equivalence relation S is $(\{(a,a),(b,b),(c,c),(a,b),(b,a)\})$. 
 The quotient set X/S is $(\{\{a,b\},\{c\}\}) = ( \{ [a], [c] \} )$.
+
+__Definitions__
+A binary relation on two sets is the subset of their cartesian product. The ordered triple (R, X, Y) is called a binary relation from X into Y. We call X the left domain and Y the right domain. If $(a,b) \in R$ we say that a is in relation R with b and write $arb$
+A binary relation where the two domains are equal to one another is called a binary relation on set X.
+
+The matrix of relation R is the matrix of type $n \times m$ (cardinalities of the domains), such that each index is 1 if $x_iRy_j$ and 0 otherwise.
+
+The domain of a relation is defined as all the values that have at least one relation to "map to". Graphically, all nodes form which an arrow leaves, and in a matrix, all rows that have a pivot.
+$D(R) := \{x \in X : \exists y \in Y xRy\} \subseteq X$
+
+The image of a relation is defined as all the values such that there exists at least one value that is in relation with them. Graphically, all nodes that have an arrow pointing to them, and in a matrix, all columns that have a pivot.
+$Im(R) := \{y \in Y : \exists c \in X xRy\} \subseteq X$
+
+An inverse relation to R is the relation ($R^{-1}, Y, X$) defined by $$R^{-1} := \{(y,x) \in Y \times X : (x,y) \in R\}$$
+The inverse relation exists for any binary relation. 
+Reversely ordered pairs; Reversed arrows in relation diagram; Matrix transpose.
+We have $D(R^{-1}) = Im(R), Im(R^{-1}) = D(R), (R^{-1})^{-1} = R$
+
+Relation composition on relations (R, Y, Z) and (S, X, Y) is defined by $$x(R \circ S)z \iff (\exists Y \in Y)(xSy \land yRz)$$
+It is not commutative (can't switcharoo), but is associative (brackets don't matter)
+$R^n = R \circ R \circ ... \circ R$ ($n$ times)
+It can be achieved also by multiplying the matrices together, or by going $n$ steps in the diagram.
+When multiplying matrices for this, we get numbers bigger than 1 - clamp it down.
+
+Special relations include the empty relation $O_x := \emptyset$, the identity relation (diagonal) $\Delta_x := \{(x,x) : x \in X\}$ and the total relation $X \times X$
+The composition of identity with any relation is that relation, and composition of empty with any relation is empty.
+
+Properties on Set X:
+- (RE) reflexivity $(\forall x \in X) ~ xRx \iff \Delta_x \subseteq R$
+- (SY) symmetry $(\forall x, y \in X)(xRy \implies yRx) \iff R^{-1} = R$
+- (TR) transitivity ($\forall x,y,z \in X)((xRy \land yRz) \implies xRz) \iff R \circ R \subseteq R$
+- (AN) antisymmetry $(\forall x,y \in X) ((xRy \land yRx) \implies x = y) \iff R \cap R^{-1} \subseteq \Delta_X$ 
+- (AS) asymmetry $(\forall x,y \in X) (xRy \implies \neg yRx) \iff R \cap R^{-1} = O_X$ 
+- (IR) irreflexivity $(\forall x \in X) (\neg xRx) \iff R \cap \Delta_X = O_X$
+
+
+Equivalence, by definition, is RE, SY, TR.
+The intersection of two equivalences is an equivalence.
+The union of two equivalences is an equivalence if and only if the union of their compositions is a subset of their union.
+
+An element class of a value is the set of all values that are in an equivalence relation to it. All the element classes of equivalent values are interchangeable
+
+A partial order relation is RE, AN, TR.
+Strict order is defined by two values being in a PO relation but not equal.
+AS follows from AN and IR. So strict order relation is IR, AS, TR.
+By theorem, the only difference between strict order and partial order is $\Delta_X$.
+
+Minimal and Maximal elements are elements for which there is no other element that is in relation with them and is smaller/greater respectively.
+Least and Greatest elements are elements who are in relation with every other element, and none of the other elements is smaller/greater respectively.
+
+Total order is defined if all elements of the set are comparable (no islands in diagram).
+
+A Hasse diagram simplifies the diagram. It is drawn bottom to top, erasing the reflexivity and transitivity as they are redundant.
+
+$R^*$ is the smallest transitive and reflexive relation containing $R$.
+$R^+$ is the smallest transitive relation containing $R$.
